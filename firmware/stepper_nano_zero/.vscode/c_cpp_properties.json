@@ -1,0 +1,56 @@
+{
+    "configurations": [
+        {
+            "name": "arudino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/tools/**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/**",
+                "C:/Program Files (x86)/Arduino/hardware/tools/**",
+                "C:/Program Files (x86)/Arduino/libraries/**",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/**",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/misfittech/hardware/samd/**",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/pio",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/instance",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/component",
+                "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL"
+            ],
+            "forcedInclude": [
+                // "C:/Users/Administrator/AppData/Local/Arduino15/packages/misfittech/hardware/samd/1.0.0/cores/arduino/Arduino.h"
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/misfittech/hardware/samd/1.0.0/cores",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/misfittech/hardware/samd/1.0.0/variants/nano_zero",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/pio",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/instance",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL/samd21/include/component",
+                    "C:/Users/Administrator/AppData/Local/Arduino15/packages/arduino/tools/CMSIS/4.0.0-atmel/Device/ATMEL"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ARDUINO=10815",
+                "__SAMD21G18A__"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/avr/bin/avr-gcc.exe"
+        }
+    ],
+    "version": 4
+}
