@@ -46,13 +46,10 @@
 
 #define A5995_NUM_MICROSTEPS (256)
 
-
-//prevent someone for making a mistake with the code
-#if ((A5995_NUM_MICROSTEPS*4) != SINE_STEPS)
+// prevent someone for making a mistake with the code
+#if ((A5995_NUM_MICROSTEPS * 4) != SINE_STEPS)
 #error "SINE_STEPS must be 4x of Micro steps for the move function"
 #endif
-
-
 
 /*
  *  When it comes to the stepper driver if we use angles
@@ -70,23 +67,21 @@
 class A5995
 {
 private:
-	uint32_t lastStepMicros; // time in microseconds that last step happened
-	bool forwardRotation=true;
-	volatile bool enabled=true;
+    uint32_t lastStepMicros; // time in microseconds that last step happened
+    bool forwardRotation = true;
+    volatile bool enabled = true;
 
 public:
-	void begin(void);
+    void begin(void);
 
-	//moves motor where the modulo of A4954_NUM_MICROSTEPS is a full step.
-	int32_t move(int32_t stepAngle, uint32_t mA);
+    // moves motor where the modulo of A4954_NUM_MICROSTEPS is a full step.
+    int32_t move(int32_t stepAngle, uint32_t mA);
 
-	uint32_t microsSinceStep(void) {return micros()-lastStepMicros;};
-	void setRotationDirection(bool forward) {forwardRotation=forward;};
+    uint32_t microsSinceStep(void) { return micros() - lastStepMicros; };
+    void setRotationDirection(bool forward) { forwardRotation = forward; };
 
-	void enable(bool enable);
-	void limitCurrent(uint8_t percent) {return;};  //Not used
+    void enable(bool enable);
+    void limitCurrent(uint8_t percent) { return; }; // Not used
 };
-
-
 
 #endif /* A5995_H_ */
