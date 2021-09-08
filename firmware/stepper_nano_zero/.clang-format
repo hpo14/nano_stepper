@@ -1,0 +1,27 @@
+BasedOnStyle: Google
+UseTab: Never
+IndentWidth: 4
+ContinuationIndentWidth: 4
+SortIncludes: false
+IncludeBlocks: Preserve
+ColumnLimit: 0
+AccessModifierOffset: -4
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 1
+EmptyLineBeforeAccessModifier: LogicalBlock
+AlignConsecutiveMacros: Consecutive
+Cpp11BracedListStyle: true
+AllowShortBlocksOnASingleLine: Always
+AllowShortLoopsOnASingleLine: true
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterEnum: true
+  AfterStruct: true
+  AfterClass: true
+  AfterControlStatement: false
+  AfterNamespace: true
+  AfterFunction: true
+  AfterUnion: true
+  AfterExternBlock: false
+  BeforeCatch: false
+  BeforeElse: false
