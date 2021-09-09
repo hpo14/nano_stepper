@@ -4,7 +4,7 @@
  *  Created on: Dec 24, 2016
  *      Author: tstern
  *
-	Copyright (C) 2018  MisfitTech,  All rights reserved.
+    Copyright (C) 2018  MisfitTech,  All rights reserved.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -22,9 +22,8 @@
 
     Misfit Tech invests time and resources providing this open source code,
     please support MisfitTech and open-source hardware by purchasing
-	products from MisfitTech, www.misifittech.net!
+    products from MisfitTech, www.misifittech.net!
  *********************************************************************/
-
 
 #ifndef SINE_H_
 #define SINE_H_
@@ -35,9 +34,7 @@
 
 #define SINE_MAX ((int32_t)(32768L))
 
-
 int16_t sine(uint16_t angle);
 int16_t cosine(uint16_t angle);
-
 
 #endif /* SINE_H_ */

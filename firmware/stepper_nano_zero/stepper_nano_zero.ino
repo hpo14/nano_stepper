@@ -1,13 +1,13 @@
 #include "nzs.h"
 
 NZS nzs;
-  
 
-void setup() {
-  nzs.begin();
+void setup()
+{
+    nzs.begin();
 }
 
-
-void loop() {
-	nzs.loop(); 
+void loop()
+{
+    nzs.loop();
 }
