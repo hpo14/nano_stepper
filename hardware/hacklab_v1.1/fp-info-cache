@@ -1,0 +1,2248 @@
+489304025330429
+NewLibCool
+0o
+Capacitor SMD 1812, hand soldering
+capacitor 1812
+0
+2
+2
+NewLibCool
+12AU7
+Valve ECC-83-2 flat pins
+Valve ECC-83-2 flat pins
+0
+9
+9
+NewLibCool
+123
+
+
+0
+0
+0
+NewLibCool
+433_Mini_Pad_1x05
+Through hole pin header
+pin header
+0
+5
+5
+NewLibCool
+433_Mini_Pad_1x05_B
+Through hole pin header
+pin header
+0
+5
+5
+NewLibCool
+485_PAD_Fu
+Through hole straight pin header, 1x04, 2.00mm pitch, single row
+Through hole pin header THT 1x04 2.00mm single row
+0
+4
+4
+NewLibCool
+0603_C
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+NewLibCool
+0603_LED
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+NewLibCool
+0603_R
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+NewLibCool
+0805_C
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+NewLibCool
+0805_C_L
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+NewLibCool
+0805_LED
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+NewLibCool
+0805_R
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+NewLibCool
+0805_R_L
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+NewLibCool
+1206_C
+Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1206
+0
+2
+2
+NewLibCool
+1206_LED
+LED 1206 smd package
+LED1206 SMD
+0
+2
+2
+NewLibCool
+1206_R
+Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1206
+0
+2
+2
+NewLibCool
+1812_R
+Capacitor SMD 1812, hand soldering
+capacitor 1812
+0
+2
+2
+NewLibCool
+4148
+Diode SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+NewLibCool
+10440BUTTER
+
+
+0
+3
+3
+NewLibCool
+14500BUTTER
+
+
+0
+2
+2
+NewLibCool
+14500BUTTERX2
+
+
+0
+5
+3
+NewLibCool
+18650BUTTER-SMD
+
+
+0
+5
+3
+NewLibCool
+ADJ_RES
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+6
+6
+NewLibCool
+AIR720
+
+
+0
+80
+80
+NewLibCool
+ANT
+Through hole pin header
+pin header
+0
+2
+2
+NewLibCool
+ANT_A2_4G
+
+
+0
+2
+2
+NewLibCool
+AP100-A
+
+
+0
+20
+20
+NewLibCool
+APOLLO_LOGO
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_9.1
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_9.5
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_14.2
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_15.3
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_15.3MM
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_19.2
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_19.2_SIYIN
+
+
+0
+0
+0
+NewLibCool
+APOLLO_LOGO_MINI
+
+
+0
+0
+0
+NewLibCool
+Alps_RK09L
+Potentiometer, horizontal, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+Potentiometer horizontal Alps RK09L Double
+0
+8
+6
+NewLibCool
+Audio_3.5mm
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+7
+6
+NewLibCool
+Audio_6.35mm
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+6
+6
+NewLibCool
+Audio_6.35mm_CN
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+4
+4
+NewLibCool
+Audio_6.35mm_new
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+6
+6
+NewLibCool
+Audio_LianHua
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+7
+7
+NewLibCool
+Audio_LianHua_one
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+4
+2
+NewLibCool
+BMP180
+crystal Epson Toyocom FA-238 and TSX-3225 series
+
+0
+7
+7
+NewLibCool
+BQ24650RVAT
+
+
+0
+34
+17
+NewLibCool
+Beep
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+NewLibCool
+BingXiang
+Jedec DO-214AB diode package. Designed according to Fairchild SS32 datasheet.
+DO-214AB diode
+0
+1
+1
+NewLibCool
+CE
+
+
+0
+0
+0
+NewLibCool
+CHR1000
+
+
+0
+8
+8
+NewLibCool
+CHR1000_NEW
+
+
+0
+5
+5
+NewLibCool
+COMM2
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+NewLibCool
+CON-01
+Through hole pin header
+pin header
+0
+1
+1
+NewLibCool
+CON-PAD
+Through hole pin header
+pin header
+0
+1
+1
+NewLibCool
+CON1
+Through hole pin header
+pin header
+0
+1
+1
+NewLibCool
+CON1_4.6mm
+Through hole pin header
+pin header
+0
+1
+1
+NewLibCool
+CON1_4.6mm_new
+Through hole pin header
+pin header
+0
+2
+2
+NewLibCool
+CONN-2
+
+
+0
+2
+2
+NewLibCool
+CONN-2-3.81
+
+
+0
+2
+2
+NewLibCool
+CONN-3-P
+
+
+0
+3
+3
+NewLibCool
+CONN-4
+
+
+0
+4
+4
+NewLibCool
+CONN-4(new)
+
+
+0
+4
+4
+NewLibCool
+CONN-4-3.81
+
+
+0
+4
+4
+NewLibCool
+CONN-4-P
+
+
+0
+4
+4
+NewLibCool
+CONN-6-P
+
+
+0
+6
+6
+NewLibCool
+CONN_2x12
+Through hole pin header
+pin header
+0
+24
+24
+NewLibCool
+CP_EIA-3216-12_Kemet-S
+Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+NewLibCool
+CP_EIA-3528-21
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+NewLibCool
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+NewLibCool
+CR1220-SMD
+
+
+0
+4
+3
+NewLibCool
+C_0.2
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.7mm width 2.5mm Capacitor
+0
+2
+2
+NewLibCool
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+NewLibCool
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+NewLibCool
+C_Radial_D10_L13_P5
+Radial Electrolytic Capacitor Diameter 10mm x Length 13mm, Pitch 5mm
+Electrolytic Capacitor
+0
+2
+2
+NewLibCool
+Conn_01x08
+
+
+0
+8
+8
+NewLibCool
+D4148
+Diode, MELF,,
+Diode MELF 
+0
+2
+2
+NewLibCool
+DC-DC
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+6
+6
+NewLibCool
+DCDCJACK_ALIM
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+NewLibCool
+DCK
+
+
+0
+6
+6
+NewLibCool
+DCK-5
+
+
+0
+5
+5
+NewLibCool
+DCK-LMT84
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+NewLibCool
+DIP-8_NEW
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+8
+8
+NewLibCool
+DIP-14A
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+NewLibCool
+DIP16A
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+NewLibCool
+DO-Diode-214BA
+Microsemi LSM115J
+DO-214BA diode
+0
+2
+2
+NewLibCool
+DO-Diode-214BAnnnnn
+Microsemi LSM115J
+DO-214BA diode
+0
+2
+2
+NewLibCool
+D_PowerDI-5
+http://www.diodes.com/_files/datasheets/ds30497.pdf
+PowerDI diode vishay
+0
+3
+2
+NewLibCool
+Design By Apollo
+
+
+0
+0
+0
+NewLibCool
+Design By Apollo 21.8mm
+
+
+0
+0
+0
+NewLibCool
+Design By Apollo 32.7mm
+
+
+0
+0
+0
+NewLibCool
+Design By Apollo_Mini
+
+
+0
+0
+0
+NewLibCool
+Design By hacklabs 25.6mm
+
+
+0
+0
+0
+NewLibCool
+Design By hacklabs 29mm
+
+
+0
+0
+0
+NewLibCool
+Design By hacklabs 34.1mm
+
+
+0
+0
+0
+NewLibCool
+Design By hacklabs 38.3mm
+
+
+0
+0
+0
+NewLibCool
+ER34615
+
+
+0
+4
+4
+NewLibCool
+FCC
+
+
+0
+0
+0
+NewLibCool
+FCC-6P
+
+
+0
+8
+8
+NewLibCool
+FPC_1x24_P0.50mm
+Hirose FH12, FFC/FPC connector, FH12-24S-0.5SH, 24 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+26
+25
+NewLibCool
+F_1206
+Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1206
+0
+2
+2
+NewLibCool
+F_1812
+Capacitor SMD 1812, hand soldering
+capacitor 1812
+0
+2
+2
+NewLibCool
+Fuse_2512_6332
+Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+NewLibCool
+Fuse_LF
+Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+NewLibCool
+GSG-HOLE126MIL-COPPER
+
+
+0
+9
+1
+NewLibCool
+HAORUN_LOGO1
+
+
+0
+0
+0
+NewLibCool
+HC-08
+
+
+0
+20
+20
+NewLibCool
+HF41F
+
+
+0
+5
+5
+NewLibCool
+HJ42119
+
+
+0
+5
+5
+NewLibCool
+Heatsink_20x15mm
+Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
+Heatsink fischer TO-220
+0
+1
+1
+NewLibCool
+Heatsink_36x11mm
+Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
+Heatsink fischer TO-220
+0
+2
+1
+NewLibCool
+INDUCTANCE_3X3
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+INDUCTANCE_5x5
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+INDUCTANCE_6x6
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+INDUCTANCE_6x6_TDK
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+INDUCTANCE_7x7
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+INDUCTANCE_10x10
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+IPX_FP
+
+
+0
+4
+3
+NewLibCool
+J27-26L
+http://www.te.com/usa-en/product-DTF13-12PA-G003.html
+DEUTSCH DT header 12 pin 
+0
+26
+26
+NewLibCool
+JLINK
+Through hole straight pin header, 1x04, 2.00mm pitch, single row
+Through hole pin header THT 1x04 2.00mm single row
+0
+4
+4
+NewLibCool
+JLINK3
+Through hole straight pin header, 1x04, 2.00mm pitch, single row
+Through hole pin header THT 1x04 2.00mm single row
+0
+3
+3
+NewLibCool
+JST_SH_P1.00mm_Vertical
+JST SH series connector, BM03B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH side entry
+0
+5
+4
+NewLibCool
+Jiantou_Logo
+
+
+0
+0
+0
+NewLibCool
+LCD12864
+
+
+0
+15
+14
+NewLibCool
+LED-3MM
+LED 3mm round vertical
+LED  3mm round vertical
+0
+2
+2
+NewLibCool
+LED-0603
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+NewLibCool
+LED_1206
+LED 1206 smd package
+LED1206 SMD
+0
+2
+2
+NewLibCool
+LOGO_2017.4.1
+
+
+0
+0
+0
+NewLibCool
+LOGO_APOLLO_10.5MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_Designedbyapollo
+
+
+0
+0
+0
+NewLibCool
+LOGO_ERJI
+
+
+0
+0
+0
+NewLibCool
+LOGO_ERWEIMA_PIR1.0
+
+
+0
+0
+0
+NewLibCool
+LOGO_ERWEIMA_PIR1.0_MINI
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACKADAY
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_10.9MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_10MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_11MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_12MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_12MM_mask
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_18MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HACK_23MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_HIFIMAN
+
+
+0
+0
+0
+NewLibCool
+LOGO_Jlink
+
+
+0
+0
+0
+NewLibCool
+LOGO_KZ
+
+
+0
+0
+0
+NewLibCool
+LOGO_LORA
+
+
+0
+0
+0
+NewLibCool
+LOGO_LiuBai
+
+
+0
+0
+0
+NewLibCool
+LOGO_MODEL-AP100-M
+
+
+0
+0
+0
+NewLibCool
+LOGO_NOLANTEN
+
+
+0
+0
+0
+NewLibCool
+LOGO_OFF
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD
+OSHW LOGO
+Open Source Hardware Logo
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD1
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_8.9MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_9.4MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_14.8MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_18.7MM
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_BIG
+
+
+0
+0
+0
+NewLibCool
+LOGO_OPENHARD_small
+
+
+0
+0
+0
+NewLibCool
+LOGO_POWER
+
+
+0
+0
+0
+NewLibCool
+LOGO_RTU_HP_V1.0
+
+
+0
+0
+0
+NewLibCool
+LOGO_SWD
+
+
+0
+0
+0
+NewLibCool
+LOGO_YINLIANG
+
+
+0
+0
+0
+NewLibCool
+LOGO_YINLIANG2
+
+
+0
+0
+0
+NewLibCool
+LPS33HW
+
+
+0
+11
+10
+NewLibCool
+LQFP-32_5x5mm_Pitch0.5mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 5 x 5 x 1.4 mm (see NXP sot401-1_fr.pdf and sot401-1_po.pdf)
+QFP 0.5
+0
+32
+32
+NewLibCool
+LQFP-48_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+NewLibCool
+LQFP-64_STM32F103RE
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+NewLibCool
+LQFP-100_14x14mm_STM32F103VC
+LQFP100: plastic low profile quad flat package; 100 leads; body 14 x 14 x 1.4 mm (see NXP sot407-1_po.pdf and sot407-1_fr.pdf)
+QFP 0.5
+0
+100
+100
+NewLibCool
+LQFP48
+
+
+0
+48
+48
+NewLibCool
+Logo_htp
+
+
+0
+0
+0
+NewLibCool
+Lora
+
+
+0
+0
+0
+NewLibCool
+MC_306
+
+
+0
+4
+4
+NewLibCool
+MICROSIM(MOLEX)
+
+
+0
+12
+8
+NewLibCool
+MICROSIM(NEW)
+
+
+0
+18
+13
+NewLibCool
+MICROSIM(ZISUO)
+
+
+0
+8
+8
+NewLibCool
+MICROSIM(ZITAN)
+
+
+0
+10
+6
+NewLibCool
+MMCX
+
+
+0
+5
+3
+NewLibCool
+MMCX-KE
+
+
+0
+3
+3
+NewLibCool
+MS5803
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+NewLibCool
+MSOP-10
+MSE Package; 10-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081664_I_MSE.pdf)
+SSOP 0.5
+0
+11
+11
+NewLibCool
+MT7620N(new)
+
+
+0
+158
+149
+NewLibCool
+MT7688AN
+
+
+0
+158
+157
+NewLibCool
+MTBB_Header
+Through hole pin header
+pin header
+0
+42
+42
+NewLibCool
+Matrix_LED
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+16
+16
+NewLibCool
+MiniMELF_My
+Diode Mini-MELF Standard
+Diode Mini-MELF Standard
+0
+2
+2
+NewLibCool
+Molex_TFcard
+
+
+0
+14
+9
+NewLibCool
+No-littering
+
+
+0
+0
+0
+NewLibCool
+No-littering2
+
+
+0
+0
+0
+NewLibCool
+OLED_0.96
+Hirose FH12, FFC/FPC connector, FH12-24S-0.5SH, 24 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+30
+30
+NewLibCool
+OSC_8M
+
+
+0
+2
+2
+NewLibCool
+OSC_32.768
+crystal Epson Toyocom FA-238 and TSX-3225 series
+
+0
+4
+4
+NewLibCool
+OSC_32.768_Mini
+crystal Epson Toyocom FA-238 and TSX-3225 series
+
+0
+2
+2
+NewLibCool
+OSC_3225
+
+
+0
+4
+4
+NewLibCool
+OSC_5032
+
+
+0
+2
+2
+NewLibCool
+O_2.5mm
+
+
+0
+9
+1
+NewLibCool
+O_3.2mm
+
+
+0
+9
+1
+NewLibCool
+O_5.6_3_omm
+
+
+0
+1
+1
+NewLibCool
+O_5.6_3mm
+
+
+0
+9
+1
+NewLibCool
+O_5.8_3mm
+
+
+0
+9
+1
+NewLibCool
+PAD-2
+
+
+0
+2
+2
+NewLibCool
+PCB_IF_ANT_2.4G
+PCB trace antenna for 2.4GHz applications (based on TI DN0007 Inverted F antenna reference design)
+
+0
+2
+2
+NewLibCool
+PIR
+Through hole pin header, 1x03, 2.00mm pitch, single row
+pin header single row
+0
+3
+3
+NewLibCool
+PinHeader_1x02_P1.27mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+NewLibCool
+PinHeader_1x02_P2.0mm
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+NewLibCool
+PinHeader_1x02_P2.0mm_SMD
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+NewLibCool
+PinHeader_1x02_P2.54mm_NEW
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+2
+2
+NewLibCool
+PinHeader_1x03_P2.54mm
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+NewLibCool
+PinHeader_1x04_P2.54mm_NEW
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+NewLibCool
+PinHeader_1x06_P2.54mm_NEW
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+NewLibCool
+PinHeader_1x10_P2.00mm_new
+Through hole straight pin header, 1x10, 2.00mm pitch, single row
+Through hole pin header THT 1x10 2.00mm single row
+0
+10
+10
+NewLibCool
+Pin_Header_2x05_2mm
+Through hole pin header
+pin header
+0
+10
+10
+NewLibCool
+Pin_Header_Straight_1x04
+Through hole pin header
+pin header
+0
+4
+4
+NewLibCool
+Pin_Header_Straight_1x05_New
+Through hole pin header
+pin header
+0
+5
+5
+NewLibCool
+Pin_Header_Straight_02x04
+Through hole pin header
+pin header
+0
+8
+8
+NewLibCool
+Pin_Header_Straight_2x04
+Through hole pin header
+pin header
+0
+8
+8
+NewLibCool
+Pin_Header_Straight_2x04(new)
+Through hole pin header
+pin header
+0
+8
+8
+NewLibCool
+Pin_Header_Straight_2x08
+Through hole pin header
+pin header
+0
+16
+16
+NewLibCool
+Pin_Header_Straight_2x10(new)
+Through hole pin header
+pin header
+0
+20
+20
+NewLibCool
+QFN-16-1EP_3x3_TPS62130
+16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+17
+17
+NewLibCool
+QFN-28-CP210X
+28-Lead Plastic Quad Flat, No Lead Package (MQ) - 5x5x0.9 mm Body [QFN or VQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+33
+28
+NewLibCool
+QFN-28-SX1278
+28-Lead Plastic Quad Flat, No Lead Package (ML) - 6x6 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.65
+0
+33
+29
+NewLibCool
+QFN-32-ESP8266
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+40
+33
+NewLibCool
+QFN-32-STM32F031
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+40
+33
+NewLibCool
+QFN-44-1EP_7x7mm_P0.5mm_mega32u4
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+44
+44
+NewLibCool
+QFN-48-1EP_7x7mm_P0.5mm_ATSAMD21G18
+QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+65
+49
+NewLibCool
+QZ
+Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystalHC-50
+0
+2
+2
+NewLibCool
+RELAY_A5W
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+10
+10
+NewLibCool
+RJ45_8_SMD
+
+RJ45
+0
+12
+10
+NewLibCool
+RJ45_TRANSFO(NEW)
+
+RJ45
+0
+16
+14
+NewLibCool
+RTU_LOGO
+
+
+0
+0
+0
+NewLibCool
+RTU_LP_V1.1_LOGO
+
+
+0
+0
+0
+NewLibCool
+RX8025T
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+14
+14
+NewLibCool
+R_10mm
+Resistor, Axial,  RM 10mm, 1/3W,
+Resistor, Axial, RM 10mm, 1/3W,
+0
+2
+2
+NewLibCool
+R_3266W_2
+Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266W
+0
+3
+2
+NewLibCool
+R_3266W_Vertical
+Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266W
+0
+3
+2
+NewLibCool
+Reed_Switch
+Resistor, Axial, RM 15mm,
+Resistor Axial RM 15mm
+0
+2
+2
+NewLibCool
+Roscale_Logo
+
+
+0
+0
+0
+NewLibCool
+SH1.0-6
+JST SH series connector, BM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH side entry
+0
+8
+7
+NewLibCool
+SH1.0-8
+JST SH series connector, BM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH side entry
+0
+10
+9
+NewLibCool
+SH1.0-10
+JST SH series connector, BM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH side entry
+0
+12
+11
+NewLibCool
+SIM800C
+
+
+0
+42
+42
+NewLibCool
+SIM900
+
+
+0
+68
+68
+NewLibCool
+SIM900_FP
+
+
+0
+68
+68
+NewLibCool
+SMA-73251-2120
+
+
+0
+17
+2
+NewLibCool
+SMA_ANT
+
+
+0
+5
+3
+NewLibCool
+SMC_Standard
+Diode SMC Standard
+Diode SMC Standard
+0
+2
+2
+NewLibCool
+SMD_LONG
+Through hole pin header
+pin header
+0
+1
+1
+NewLibCool
+SO20
+
+
+0
+20
+20
+NewLibCool
+SOIL
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+NewLibCool
+SOP-8
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+NewLibCool
+SOP-8-PAD
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+15
+8
+NewLibCool
+SOP-8-W
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+NewLibCool
+SOP-10
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+10
+8
+NewLibCool
+SOP-16
+SSOP16: plastic shrink small outline package; 16 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot338-1_po.pdf)
+SSOP 0.65
+0
+16
+16
+NewLibCool
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+NewLibCool
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+NewLibCool
+SOT-23-6-G
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+NewLibCool
+SOT-23-L
+SOT-23, Standard
+SOT-23
+0
+3
+3
+NewLibCool
+SOT-353
+SOT353
+
+0
+6
+6
+NewLibCool
+SOT-363
+SOT353
+
+0
+6
+6
+NewLibCool
+SOT23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+NewLibCool
+SOT23-8
+5-pin SOT23 package
+SOT-23-5
+0
+8
+8
+NewLibCool
+SOT223-4
+
+
+0
+4
+3
+NewLibCool
+SSOP-8
+TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot505-1_po.pdf)
+SSOP 0.65
+0
+8
+8
+NewLibCool
+SWITCH_PUSH
+
+
+0
+6
+3
+NewLibCool
+SWITCH_PUSH_2
+
+
+0
+9
+5
+NewLibCool
+SWITCH_PUSH_4
+
+
+0
+4
+2
+NewLibCool
+SWITCH_Toggle
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+5
+4
+NewLibCool
+SWITCH_Toggle_deliwei
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+5
+4
+NewLibCool
+SWITCH_Toggle_deliwei_sm
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+3
+3
+NewLibCool
+SWPA5020S(2.2uH)
+http://www.flight-elec.com/upload/suppliers/fe/20101239421550581.pdf
+
+0
+2
+2
+NewLibCool
+Switch_6x6x5
+Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1206
+0
+2
+2
+NewLibCool
+TBH
+
+
+0
+5
+5
+NewLibCool
+TF_card
+
+
+0
+15
+12
+NewLibCool
+TFcard
+
+
+0
+15
+12
+NewLibCool
+TFcard_Expand
+
+
+0
+36
+9
+NewLibCool
+TO-5T
+TO-5-3
+TO-5-3
+0
+3
+3
+NewLibCool
+TO-92
+TO-92 leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+NewLibCool
+TO-220-3_IRF630
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+NewLibCool
+TO-252
+
+
+0
+3
+3
+NewLibCool
+TO-252-78M05
+
+
+0
+3
+3
+NewLibCool
+TPA6120A2
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+29
+20
+NewLibCool
+TSSOP-8_4.4x3mm_Pitch0.65mm-24c16
+8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+NewLibCool
+TSSOP-20
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+NewLibCool
+T_E19
+
+
+0
+5
+5
+NewLibCool
+Tan-6032-20_AVX-F_NEW
+Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+NewLibCool
+TantalC_SizeC_6032
+Tantal Cap. , Size C, EIA-6032, Reflow
+Tantal Capacitor Size-C EIA-6032 Reflow
+0
+2
+2
+NewLibCool
+TantalC_SizeD_EIA-7343
+Tantal Cap. , Size D, EIA-7343, Wave,
+Tantal Cap. , Size D, EIA-7343, Wave,
+0
+2
+2
+NewLibCool
+TantalC_SizeE_7360
+Tantal Cap. , Size E, EIA-7360, Wave,
+Tantal Cap. , Size E, EIA-7360, Wave,
+0
+2
+2
+NewLibCool
+TantalC_SizeT_3528
+TantalC_SizeT_EIA-3528
+
+0
+2
+2
+NewLibCool
+UC2_E_SMALL
+
+
+0
+6
+6
+NewLibCool
+UFQFPN48
+
+
+0
+48
+48
+NewLibCool
+UL
+
+
+0
+0
+0
+NewLibCool
+USB-Type-C
+
+
+0
+16
+7
+NewLibCool
+USB-Type-C-NEW
+
+
+0
+18
+7
+NewLibCool
+USB_A_SMD
+USB A connector
+USB USB_A
+0
+8
+6
+NewLibCool
+USB_A_Short
+USB A connector
+USB USB_A
+0
+8
+5
+NewLibCool
+USB_Micro-B
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+11
+8
+NewLibCool
+USB_Micro-B_straight
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+7
+6
+NewLibCool
+VR5
+
+
+0
+3
+3
+NewLibCool
+WBGA-84
+
+
+0
+84
+84
+NewLibCool
+WBGA-84(ddr2)
+
+
+0
+84
+84
+NewLibCool
+XH2.54-2P-SMD
+
+
+0
+4
+3
+NewLibCool
+XH2.54-7
+JST XH series connector, B07B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
+0
+7
+7
+NewLibCool
+XH_4P_SMD
+Tantal Cap. , Size C, EIA-6032, Reflow
+Tantal Capacitor Size-C EIA-6032 Reflow
+0
+6
+5
+NewLibCool
+XLR_SMD
+JST PH series connector, S3B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+5
+3
+NewLibCool
+ZH_P1.50mm_Vertical
+JST ZE series connector, BM03B-ZESS-TBT (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
+connector JST ZE vertical
+0
+5
+4
+NewLibCool
+c_elec_5x5.8
+SMT capacitor, aluminium electrolytic, 5x5.8
+
+0
+2
+2
+NewLibCool
+c_elec_8x10.5
+SMT capacitor, aluminium electrolytic, 8x10.5
+
+0
+2
+2
+NewLibCool
+esd
+
+
+0
+0
+0
+NewLibCool
+haorun_logo
+
+
+0
+0
+0
+NewLibCool
+haorun_logo_Mini
+
+
+0
+0
+0
+NewLibCool
+htp
+
+
+0
+0
+0
+NewLibCool
+logo_hackmic
+
+
+0
+0
+0
+NewLibCool
+logo_openhardware
+
+
+0
+0
+0
+NewLibCool
+no kebian in dingceng
+
+
+0
+0
+0
+NewLibCool
+powershuoming
+
+
+0
+0
+0
+NewLibCool
+powershuoming2
+
+
+0
+0
+0
+NewLibCool
+switch1
+SMD push switch
+
+0
+2
+2
+NewLibCool
+switch_2x2_big
+
+
+0
+5
+5
+NewLibCool
+switch_mini
+SMD push switch
+
+0
+2
+2
+NewLibCool
+switchx3x4
+SMD 1x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
+SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+0
+2
+2
+NewLibCool
+wifi
+
+
+0
+0
+0
