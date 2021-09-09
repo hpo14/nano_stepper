@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LibCool)(type Legacy)(uri D:/software/KICAD/NewLibcool.pretty-master/LibCool.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+)
