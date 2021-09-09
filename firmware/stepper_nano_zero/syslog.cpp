@@ -93,7 +93,7 @@ void SysLogPuts(const char *ptrStr)
 	{
 		ptrSerial->write(ptrStr);
 	}
-#ifndef MECHADUINO_HARDWARE 
+#ifndef MECHADUINO_HARDWARE
 	if (DebugUART)
 	{
 		SerialUSB.write(ptrStr);

@@ -433,9 +433,9 @@ void CalibrationTable::init(void)
 	return;
 }
 
-#if 0 
+#if 0
 //This code was removed because with micro stepping we can not assume
-// our actualAngle is correct. 
+// our actualAngle is correct.
 void CalibrationTable::updateTable(Angle actualAngle, Angle encoderValue);
 {
 	static int32_t lastAngle=-1;
@@ -489,8 +489,8 @@ void CalibrationTable::updateTable(Angle actualAngle, Angle encoderValue);
 #endif
 
 //when we are microstepping and are in between steps the probability the stepper motor did not move
-// is high. That is the actualAngle will be correct but the encoderValue will be behind due to not having enough torque to move motor. 
-// Therefore we only want to update the calibration on whole steps where we have highest probability of things being correct. 
+// is high. That is the actualAngle will be correct but the encoderValue will be behind due to not having enough torque to move motor.
+// Therefore we only want to update the calibration on whole steps where we have highest probability of things being correct.
 void CalibrationTable::updateTable(Angle actualAngle, Angle encoderValue)
 {
 	int32_t dist, index;

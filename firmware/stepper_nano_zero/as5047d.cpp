@@ -166,7 +166,7 @@ boolean AS5047D::begin(int csPin)
 }
 
 
-//read the encoders 
+//read the encoders
 int16_t AS5047D::readAddress(uint16_t addr)
 {
 	uint16_t data;
@@ -213,7 +213,7 @@ int16_t AS5047D::readAddress(uint16_t addr)
 	return data;
 }
 
-//read the encoders 
+//read the encoders
 int16_t AS5047D::readEncoderAngle(void)
 {
 	if (as5047d)

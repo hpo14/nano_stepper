@@ -74,7 +74,7 @@ typedef struct {
 // to fixed point int32_t values
 #define CTRL_PID_SCALING (1024)
 
-class StepperCtrl 
+class StepperCtrl
 {
 	private:
 		volatile bool enableFeedback; //true if we are using PID control algorithm

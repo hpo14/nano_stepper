@@ -1551,13 +1551,13 @@ uint8_t putch_step_dir(char data)
 
 void commandsInit(void)
 {
-	
+
 #ifndef MECHADUINO_HARDWARE
   CommandInit(&UsbUart, kbhit, getChar, putch ,NULL); //set up the UART structure
   SerialUSB.print("\n\rPower Up\n\r");
   SerialUSB.print(COMMANDS_PROMPT);
 #endif
-	
+
 	CommandInit(&HostUart, kbhit_step_dir, getChar_step_dir, putch_step_dir ,NULL); //set up the UART structure for step and dir pins
 
 #ifdef CMD_SERIAL_PORT
