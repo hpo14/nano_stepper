@@ -111,9 +111,9 @@ void LCD::showSplash(void)
 		return;
 	}
 #ifdef A5995_DRIVER
-	lcdShow("MisfitTech","NEMA 23", VERSION);
+	lcdShow("HACK-LABS","NEMA 23", VERSION);
 #else
-	lcdShow("MisfitTech","NEMA 17", VERSION);
+	lcdShow("HACK-LABS","NEMA 47", VERSION);
 #endif
 }
 

@@ -87,7 +87,7 @@
 //#define ENABLE_PHASE_PREDICTION //this enables prediction of phase at high velocity to increase motor speed
 //as of FW0.11 it is considered development only
 
-#define VERSION "FW: 0.40" //this is what prints on LCD during splash screen
+#define VERSION "FW: 0.41" //this is what prints on LCD during splash screen
 
 //Define this to allow command out serial port, else hardware serial is debug log
 //#define CMD_SERIAL_PORT
@@ -248,10 +248,10 @@ typedef enum {
 #warning "Compiling source for Mechaduino NOT NZS"
 #define DISABLE_LCD
 #undef  Serial5
-#define Serial5 Serial 
+#define Serial5 Serial
 #else
 #define SerialUSB Serial
-#endif 
+#endif
 
 #define PIN_TXD		(30)
 #define PIN_RXD		(31)
@@ -277,13 +277,13 @@ typedef enum {
 #ifdef A1333_ENCODER //the MKS Servo42 uses A1 for this switch
 #define PIN_SW4		(15)//analogInputToDigitalPin(PIN_A1))
 #else
-#define PIN_SW4		(2)//D2
+#define PIN_SW4		(15)//A1
 #endif
 
 #define PIN_ENABLE	(10)
-#define PIN_ERROR	(3)
+#define PIN_ERROR	(3)//not use
 
-#define PIN_VMOTOR (A1) //analog pin for the motor
+#define PIN_VMOTOR (A3) //analog pin for the motor
 
 #else
 #define PIN_SW1		(19)//analogInputToDigitalPin(PIN_A5))

@@ -650,24 +650,7 @@ void NZS::begin(void)
 	LOG("Power up!");
 	pinMode(PIN_USB_PWR, INPUT);
 
-#ifndef MECHADUINO_HARDWARE
-	if (digitalRead(PIN_USB_PWR))
-	{
-		//wait for USB serial port to come alive
-		while (!SerialUSB)
-		{
-			to--;
-			if (to == 0)
-			{
-				break;
-			}
-			delay(500);
-		};     //wait for serial
-	} else
-	{
-		WARNING("USB Not connected");
-	}
-#endif
+
 
 	validateAndInitNVMParams();
 
@@ -682,9 +665,9 @@ void NZS::begin(void)
 	Lcd.begin(&stepperCtrl);
 
 #ifdef A5995_DRIVER
-	Lcd.lcdShow("MisfitTech","NEMA 23", VERSION);
+	Lcd.lcdShow("HACK-LABS","NEMA 23", VERSION);
 #else
-	Lcd.lcdShow("MisfitTech","NEMA 17", VERSION);
+	Lcd.lcdShow("HACK-LABS","NEMA 17", VERSION);
 #endif
 
 #endif
